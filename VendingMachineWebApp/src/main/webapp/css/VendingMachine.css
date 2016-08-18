@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://3elydn392n5m3p35uv1mwipek8n-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/0613theater.jpg");
+    background-color: #cccccc;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#landingTitle{
+    font-family: 'Bitter', serif;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+label{
+    color:white;
+}
+
+/* Popover */
+.popover {
+    border: 2px dotted red;
+}
+
+/* Popover Header */
+.popover-title {
+    background-color: #73AD21; 
+    color: black; 
+    font-size: 28px;
+    text-align:center;
+}
+
+/* Popover Body */
+.popover-content {
+    background-color: coral;
+    color: #FFFFFF;
+    padding: 25px;
+}
+
+/* Popover Arrow */
+.arrow {
+    border-right-color: red !important;
+}
